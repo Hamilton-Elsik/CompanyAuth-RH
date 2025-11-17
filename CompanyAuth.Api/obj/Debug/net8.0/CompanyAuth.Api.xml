@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CompanyAuth.Api</name>
+    </assembly>
+    <members>
+        <member name="M:CompanyAuth.Api.Controllers.AuthorizationController.Login(CompanyAuth.Application.DTOs.LoginRequest)">
+            <summary>
+            Inicia sesión y devuelve un JWT.
+            </summary>
+        </member>
+        <member name="M:CompanyAuth.Api.Controllers.PermissionsController.GetAll">
+            <summary>
+            Obtiene todos los permisos del sistema.
+            </summary>
+        </member>
+        <member name="M:CompanyAuth.Api.Controllers.PermissionsController.GetById(System.Int32)">
+            <summary>
+            Obtiene un permiso por ID.
+            </summary>
+        </member>
+        <member name="M:CompanyAuth.Api.Controllers.PermissionsController.Create(CompanyAuth.Application.DTOs.Permissions.CreatePermissionRequest)">
+            <summary>
+            Crea un nuevo permiso.
+            </summary>
+        </member>
+        <member name="M:CompanyAuth.Api.Controllers.PermissionsController.Update(System.Int32,CompanyAuth.Application.DTOs.Permissions.UpdatePermissionRequest)">
+            <summary>
+            Actualiza un permiso existente.
+            </summary>
+        </member>
+        <member name="M:CompanyAuth.Api.Controllers.PermissionsController.Delete(System.Int32)">
+            <summary>
+            Elimina un permiso por ID.
+            </summary>
+        </member>
+        <member name="M:CompanyAuth.Api.Controllers.RolesController.GetAll">
+            <summary>
+            Obtiene todos los roles del sistema.
+            </summary>
+        </member>
+        <member name="M:CompanyAuth.Api.Controllers.RolesController.GetById(System.Int32)">
+            <summary>
+            Obtiene un role por ID.
+            </summary>
+        </member>
+        <member name="M:CompanyAuth.Api.Controllers.RolesController.Create(CompanyAuth.Application.DTOs.Roles.CreateRoleRequest)">
+            <summary>
+            Crea un nuevo role.
+            </summary>
+        </member>
+        <member name="T:CompanyAuth.Api.Controllers.UsersController">
+            <summary>
+            Controlador para la gestión de usuarios del sistema.
+            </summary>
+        </member>
+        <member name="M:CompanyAuth.Api.Controllers.UsersController.GetAll">
+            <summary>
+            Obtiene la lista de usuarios.
+            </summary>
+            <remarks>
+            Requiere el permiso <c>ViewUsers</c> o el rol <c>Admin</c>.
+            </remarks>
+            <response code="200">Lista de usuarios devuelta correctamente.</response>
+            <response code="401">Usuario no autenticado.</response>
+            <response code="403">Usuario sin permisos para ver usuarios.</response>
+        </member>
+        <member name="M:CompanyAuth.Api.Controllers.UsersController.GetById(System.Int32)">
+            <summary>
+            Obtiene un usuario por su identificador.
+            </summary>
+            <param name="id">Identificador del usuario.</param>
+            <response code="200">Usuario encontrado.</response>
+            <response code="404">Usuario no encontrado.</response>
+        </member>
+        <member name="M:CompanyAuth.Api.Controllers.UsersController.Create(CompanyAuth.Application.DTOs.Users.RegisterUserRequest)">
+            <summary>
+            Crea un nuevo usuario.
+            </summary>
+            <param name="request">Datos del usuario a crear.</param>
+            <remarks>
+            Solo usuarios con rol <c>Admin</c> pueden crear usuarios.
+            </remarks>
+            <response code="201">Usuario creado correctamente.</response>
+            <response code="400">Datos de entrada no válidos.</response>
+            <response code="401">Usuario no autenticado.</response>
+            <response code="403">Usuario sin permisos para crear usuarios.</response>
+        </member>
+        <member name="M:CompanyAuth.Api.Controllers.UsersController.Update(System.Int32,CompanyAuth.Application.DTOs.Users.RegisterUserRequest)">
+            <summary>
+            Actualiza los datos de un usuario existente.
+            </summary>
+            <param name="id">Identificador del usuario.</param>
+            <param name="request">Datos actualizados del usuario.</param>
+            <response code="204">Usuario actualizado correctamente.</response>
+            <response code="400">Datos de entrada no válidos.</response>
+            <response code="404">Usuario no encontrado.</response>
+        </member>
+        <member name="M:CompanyAuth.Api.Controllers.UsersController.Delete(System.Int32)">
+            <summary>
+            Elimina un usuario por su identificador.
+            </summary>
+            <param name="id">Identificador del usuario.</param>
+            <response code="204">Usuario eliminado correctamente.</response>
+            <response code="404">Usuario no encontrado.</response>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,11 @@
+D:\Arquitectura de software\TEMAS AVANZADOS DE DISEÑO DE SOFTWARE\proyecto numero 1\HRR\CompanyAuth.Domain\bin\Debug\net8.0\CompanyAuth.Domain.deps.json
+D:\Arquitectura de software\TEMAS AVANZADOS DE DISEÑO DE SOFTWARE\proyecto numero 1\HRR\CompanyAuth.Domain\bin\Debug\net8.0\CompanyAuth.Domain.dll
+D:\Arquitectura de software\TEMAS AVANZADOS DE DISEÑO DE SOFTWARE\proyecto numero 1\HRR\CompanyAuth.Domain\bin\Debug\net8.0\CompanyAuth.Domain.pdb
+D:\Arquitectura de software\TEMAS AVANZADOS DE DISEÑO DE SOFTWARE\proyecto numero 1\HRR\CompanyAuth.Domain\obj\Debug\net8.0\CompanyAuth.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquitectura de software\TEMAS AVANZADOS DE DISEÑO DE SOFTWARE\proyecto numero 1\HRR\CompanyAuth.Domain\obj\Debug\net8.0\CompanyAuth.Domain.AssemblyInfoInputs.cache
+D:\Arquitectura de software\TEMAS AVANZADOS DE DISEÑO DE SOFTWARE\proyecto numero 1\HRR\CompanyAuth.Domain\obj\Debug\net8.0\CompanyAuth.Domain.AssemblyInfo.cs
+D:\Arquitectura de software\TEMAS AVANZADOS DE DISEÑO DE SOFTWARE\proyecto numero 1\HRR\CompanyAuth.Domain\obj\Debug\net8.0\CompanyAuth.Domain.csproj.CoreCompileInputs.cache
+D:\Arquitectura de software\TEMAS AVANZADOS DE DISEÑO DE SOFTWARE\proyecto numero 1\HRR\CompanyAuth.Domain\obj\Debug\net8.0\CompanyAuth.Domain.dll
+D:\Arquitectura de software\TEMAS AVANZADOS DE DISEÑO DE SOFTWARE\proyecto numero 1\HRR\CompanyAuth.Domain\obj\Debug\net8.0\refint\CompanyAuth.Domain.dll
+D:\Arquitectura de software\TEMAS AVANZADOS DE DISEÑO DE SOFTWARE\proyecto numero 1\HRR\CompanyAuth.Domain\obj\Debug\net8.0\CompanyAuth.Domain.pdb
+D:\Arquitectura de software\TEMAS AVANZADOS DE DISEÑO DE SOFTWARE\proyecto numero 1\HRR\CompanyAuth.Domain\obj\Debug\net8.0\ref\CompanyAuth.Domain.dll

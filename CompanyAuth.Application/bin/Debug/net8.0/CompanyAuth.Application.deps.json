@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CompanyAuth.Application/1.0.0": {
+        "dependencies": {
+          "CompanyAuth.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CompanyAuth.Application.dll": {}
+        }
+      },
+      "CompanyAuth.Domain/1.0.0": {
+        "runtime": {
+          "CompanyAuth.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CompanyAuth.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CompanyAuth.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

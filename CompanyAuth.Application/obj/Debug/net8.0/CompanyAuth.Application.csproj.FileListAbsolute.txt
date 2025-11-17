@@ -1,0 +1,15 @@
+D:\Arquitectura de software\TEMAS AVANZADOS DE DISEÑO DE SOFTWARE\proyecto numero 1\HRR\CompanyAuth.Application\bin\Debug\net8.0\CompanyAuth.Application.deps.json
+D:\Arquitectura de software\TEMAS AVANZADOS DE DISEÑO DE SOFTWARE\proyecto numero 1\HRR\CompanyAuth.Application\bin\Debug\net8.0\CompanyAuth.Application.dll
+D:\Arquitectura de software\TEMAS AVANZADOS DE DISEÑO DE SOFTWARE\proyecto numero 1\HRR\CompanyAuth.Application\bin\Debug\net8.0\CompanyAuth.Application.pdb
+D:\Arquitectura de software\TEMAS AVANZADOS DE DISEÑO DE SOFTWARE\proyecto numero 1\HRR\CompanyAuth.Application\bin\Debug\net8.0\CompanyAuth.Domain.dll
+D:\Arquitectura de software\TEMAS AVANZADOS DE DISEÑO DE SOFTWARE\proyecto numero 1\HRR\CompanyAuth.Application\bin\Debug\net8.0\CompanyAuth.Domain.pdb
+D:\Arquitectura de software\TEMAS AVANZADOS DE DISEÑO DE SOFTWARE\proyecto numero 1\HRR\CompanyAuth.Application\obj\Debug\net8.0\CompanyAuth.Application.csproj.AssemblyReference.cache
+D:\Arquitectura de software\TEMAS AVANZADOS DE DISEÑO DE SOFTWARE\proyecto numero 1\HRR\CompanyAuth.Application\obj\Debug\net8.0\CompanyAuth.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquitectura de software\TEMAS AVANZADOS DE DISEÑO DE SOFTWARE\proyecto numero 1\HRR\CompanyAuth.Application\obj\Debug\net8.0\CompanyAuth.Application.AssemblyInfoInputs.cache
+D:\Arquitectura de software\TEMAS AVANZADOS DE DISEÑO DE SOFTWARE\proyecto numero 1\HRR\CompanyAuth.Application\obj\Debug\net8.0\CompanyAuth.Application.AssemblyInfo.cs
+D:\Arquitectura de software\TEMAS AVANZADOS DE DISEÑO DE SOFTWARE\proyecto numero 1\HRR\CompanyAuth.Application\obj\Debug\net8.0\CompanyAuth.Application.csproj.CoreCompileInputs.cache
+D:\Arquitectura de software\TEMAS AVANZADOS DE DISEÑO DE SOFTWARE\proyecto numero 1\HRR\CompanyAuth.Application\obj\Debug\net8.0\CompanyA.4D1E345A.Up2Date
+D:\Arquitectura de software\TEMAS AVANZADOS DE DISEÑO DE SOFTWARE\proyecto numero 1\HRR\CompanyAuth.Application\obj\Debug\net8.0\CompanyAuth.Application.dll
+D:\Arquitectura de software\TEMAS AVANZADOS DE DISEÑO DE SOFTWARE\proyecto numero 1\HRR\CompanyAuth.Application\obj\Debug\net8.0\refint\CompanyAuth.Application.dll
+D:\Arquitectura de software\TEMAS AVANZADOS DE DISEÑO DE SOFTWARE\proyecto numero 1\HRR\CompanyAuth.Application\obj\Debug\net8.0\CompanyAuth.Application.pdb
+D:\Arquitectura de software\TEMAS AVANZADOS DE DISEÑO DE SOFTWARE\proyecto numero 1\HRR\CompanyAuth.Application\obj\Debug\net8.0\ref\CompanyAuth.Application.dll

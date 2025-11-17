@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Arquitectura de software\\TEMAS AVANZADOS DE DISE\u00D1O DE SOFTWARE\\proyecto numero 1\\HRR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{068ABA72-68BF-4427-8CDA-B87AB1F9DF03}|CompanyAuth.Api\\CompanyAuth.Api.csproj|d:\\arquitectura de software\\temas avanzados de dise\u00F1o de software\\proyecto numero 1\\hrr\\companyauth.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068ABA72-68BF-4427-8CDA-B87AB1F9DF03}|CompanyAuth.Api\\CompanyAuth.Api.csproj|solutionrelative:companyauth.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0A9F65-9635-4A1E-8BAC-AA49BBA35E4F}|CompanyAuth.Infrastructure\\CompanyAuth.Infrastructure.csproj|d:\\arquitectura de software\\temas avanzados de dise\u00F1o de software\\proyecto numero 1\\hrr\\companyauth.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0A9F65-9635-4A1E-8BAC-AA49BBA35E4F}|CompanyAuth.Infrastructure\\CompanyAuth.Infrastructure.csproj|solutionrelative:companyauth.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BAFA7E4-B9D7-40A7-A153-C5EEFA8184B2}|CompanyAuth.Application\\CompanyAuth.Application.csproj|d:\\arquitectura de software\\temas avanzados de dise\u00F1o de software\\proyecto numero 1\\hrr\\companyauth.application\\interfaces\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BAFA7E4-B9D7-40A7-A153-C5EEFA8184B2}|CompanyAuth.Application\\CompanyAuth.Application.csproj|solutionrelative:companyauth.application\\interfaces\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0A9F65-9635-4A1E-8BAC-AA49BBA35E4F}|CompanyAuth.Infrastructure\\CompanyAuth.Infrastructure.csproj|d:\\arquitectura de software\\temas avanzados de dise\u00F1o de software\\proyecto numero 1\\hrr\\companyauth.infrastructure\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0A9F65-9635-4A1E-8BAC-AA49BBA35E4F}|CompanyAuth.Infrastructure\\CompanyAuth.Infrastructure.csproj|solutionrelative:companyauth.infrastructure\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068ABA72-68BF-4427-8CDA-B87AB1F9DF03}|CompanyAuth.Api\\CompanyAuth.Api.csproj|d:\\arquitectura de software\\temas avanzados de dise\u00F1o de software\\proyecto numero 1\\hrr\\companyauth.api\\controllers\\permissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068ABA72-68BF-4427-8CDA-B87AB1F9DF03}|CompanyAuth.Api\\CompanyAuth.Api.csproj|solutionrelative:companyauth.api\\controllers\\permissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068ABA72-68BF-4427-8CDA-B87AB1F9DF03}|CompanyAuth.Api\\CompanyAuth.Api.csproj|d:\\arquitectura de software\\temas avanzados de dise\u00F1o de software\\proyecto numero 1\\hrr\\companyauth.api\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068ABA72-68BF-4427-8CDA-B87AB1F9DF03}|CompanyAuth.Api\\CompanyAuth.Api.csproj|solutionrelative:companyauth.api\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BAFA7E4-B9D7-40A7-A153-C5EEFA8184B2}|CompanyAuth.Application\\CompanyAuth.Application.csproj|d:\\arquitectura de software\\temas avanzados de dise\u00F1o de software\\proyecto numero 1\\hrr\\companyauth.application\\interfaces\\repositories\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BAFA7E4-B9D7-40A7-A153-C5EEFA8184B2}|CompanyAuth.Application\\CompanyAuth.Application.csproj|solutionrelative:companyauth.application\\interfaces\\repositories\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0A9F65-9635-4A1E-8BAC-AA49BBA35E4F}|CompanyAuth.Infrastructure\\CompanyAuth.Infrastructure.csproj|d:\\arquitectura de software\\temas avanzados de dise\u00F1o de software\\proyecto numero 1\\hrr\\companyauth.infrastructure\\repositories\\permissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0A9F65-9635-4A1E-8BAC-AA49BBA35E4F}|CompanyAuth.Infrastructure\\CompanyAuth.Infrastructure.csproj|solutionrelative:companyauth.infrastructure\\repositories\\permissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0B9F1D-DE13-472C-88F1-F1224476D3AF}|CompanyAuth.Domain\\CompanyAuth.Domain.csproj|d:\\arquitectura de software\\temas avanzados de dise\u00F1o de software\\proyecto numero 1\\hrr\\companyauth.domain\\entities\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0B9F1D-DE13-472C-88F1-F1224476D3AF}|CompanyAuth.Domain\\CompanyAuth.Domain.csproj|solutionrelative:companyauth.domain\\entities\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BAFA7E4-B9D7-40A7-A153-C5EEFA8184B2}|CompanyAuth.Application\\CompanyAuth.Application.csproj|d:\\arquitectura de software\\temas avanzados de dise\u00F1o de software\\proyecto numero 1\\hrr\\companyauth.application\\dtos\\roles\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BAFA7E4-B9D7-40A7-A153-C5EEFA8184B2}|CompanyAuth.Application\\CompanyAuth.Application.csproj|solutionrelative:companyauth.application\\dtos\\roles\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0A9F65-9635-4A1E-8BAC-AA49BBA35E4F}|CompanyAuth.Infrastructure\\CompanyAuth.Infrastructure.csproj|d:\\arquitectura de software\\temas avanzados de dise\u00F1o de software\\proyecto numero 1\\hrr\\companyauth.infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0A9F65-9635-4A1E-8BAC-AA49BBA35E4F}|CompanyAuth.Infrastructure\\CompanyAuth.Infrastructure.csproj|solutionrelative:companyauth.infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0A9F65-9635-4A1E-8BAC-AA49BBA35E4F}|CompanyAuth.Infrastructure\\CompanyAuth.Infrastructure.csproj|d:\\arquitectura de software\\temas avanzados de dise\u00F1o de software\\proyecto numero 1\\hrr\\companyauth.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0A9F65-9635-4A1E-8BAC-AA49BBA35E4F}|CompanyAuth.Infrastructure\\CompanyAuth.Infrastructure.csproj|solutionrelative:companyauth.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0B9F1D-DE13-472C-88F1-F1224476D3AF}|CompanyAuth.Domain\\CompanyAuth.Domain.csproj|d:\\arquitectura de software\\temas avanzados de dise\u00F1o de software\\proyecto numero 1\\hrr\\companyauth.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0B9F1D-DE13-472C-88F1-F1224476D3AF}|CompanyAuth.Domain\\CompanyAuth.Domain.csproj|solutionrelative:companyauth.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Arquitectura de software\\TEMAS AVANZADOS DE DISE\u00D1O DE SOFTWARE\\proyecto numero 1\\HRR\\CompanyAuth.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "CompanyAuth.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\Arquitectura de software\\TEMAS AVANZADOS DE DISE\u00D1O DE SOFTWARE\\proyecto numero 1\\HRR\\CompanyAuth.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "CompanyAuth.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T21:54:15.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Arquitectura de software\\TEMAS AVANZADOS DE DISE\u00D1O DE SOFTWARE\\proyecto numero 1\\HRR\\CompanyAuth.Application\\Interfaces\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "CompanyAuth.Application\\Interfaces\\Repositories\\IUserRepository.cs",
+              "ToolTip": "D:\\Arquitectura de software\\TEMAS AVANZADOS DE DISE\u00D1O DE SOFTWARE\\proyecto numero 1\\HRR\\CompanyAuth.Application\\Interfaces\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "CompanyAuth.Application\\Interfaces\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T21:53:34.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Arquitectura de software\\TEMAS AVANZADOS DE DISE\u00D1O DE SOFTWARE\\proyecto numero 1\\HRR\\CompanyAuth.Api\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "CompanyAuth.Api\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Arquitectura de software\\TEMAS AVANZADOS DE DISE\u00D1O DE SOFTWARE\\proyecto numero 1\\HRR\\CompanyAuth.Api\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "CompanyAuth.Api\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAIwOYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T21:36:16.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PermissionRepository.cs",
+              "DocumentMoniker": "D:\\Arquitectura de software\\TEMAS AVANZADOS DE DISE\u00D1O DE SOFTWARE\\proyecto numero 1\\HRR\\CompanyAuth.Infrastructure\\Repositories\\PermissionRepository.cs",
+              "RelativeDocumentMoniker": "CompanyAuth.Infrastructure\\Repositories\\PermissionRepository.cs",
+              "ToolTip": "D:\\Arquitectura de software\\TEMAS AVANZADOS DE DISE\u00D1O DE SOFTWARE\\proyecto numero 1\\HRR\\CompanyAuth.Infrastructure\\Repositories\\PermissionRepository.cs",
+              "RelativeToolTip": "CompanyAuth.Infrastructure\\Repositories\\PermissionRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T21:20:49.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "D:\\Arquitectura de software\\TEMAS AVANZADOS DE DISE\u00D1O DE SOFTWARE\\proyecto numero 1\\HRR\\CompanyAuth.Infrastructure\\Repositories\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "CompanyAuth.Infrastructure\\Repositories\\RoleRepository.cs",
+              "ToolTip": "D:\\Arquitectura de software\\TEMAS AVANZADOS DE DISE\u00D1O DE SOFTWARE\\proyecto numero 1\\HRR\\CompanyAuth.Infrastructure\\Repositories\\RoleRepository.cs",
+              "RelativeToolTip": "CompanyAuth.Infrastructure\\Repositories\\RoleRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T20:38:58.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Permission.cs",
+              "DocumentMoniker": "D:\\Arquitectura de software\\TEMAS AVANZADOS DE DISE\u00D1O DE SOFTWARE\\proyecto numero 1\\HRR\\CompanyAuth.Domain\\Entities\\Permission.cs",
+              "RelativeDocumentMoniker": "CompanyAuth.Domain\\Entities\\Permission.cs",
+              "ToolTip": "D:\\Arquitectura de software\\TEMAS AVANZADOS DE DISE\u00D1O DE SOFTWARE\\proyecto numero 1\\HRR\\CompanyAuth.Domain\\Entities\\Permission.cs",
+              "RelativeToolTip": "CompanyAuth.Domain\\Entities\\Permission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T21:20:31.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Arquitectura de software\\TEMAS AVANZADOS DE DISE\u00D1O DE SOFTWARE\\proyecto numero 1\\HRR\\CompanyAuth.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CompanyAuth.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Arquitectura de software\\TEMAS AVANZADOS DE DISE\u00D1O DE SOFTWARE\\proyecto numero 1\\HRR\\CompanyAuth.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "CompanyAuth.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwE8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T21:12:09.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Arquitectura de software\\TEMAS AVANZADOS DE DISE\u00D1O DE SOFTWARE\\proyecto numero 1\\HRR\\CompanyAuth.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CompanyAuth.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "D:\\Arquitectura de software\\TEMAS AVANZADOS DE DISE\u00D1O DE SOFTWARE\\proyecto numero 1\\HRR\\CompanyAuth.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "CompanyAuth.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T21:11:02.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PermissionsController.cs",
+              "DocumentMoniker": "D:\\Arquitectura de software\\TEMAS AVANZADOS DE DISE\u00D1O DE SOFTWARE\\proyecto numero 1\\HRR\\CompanyAuth.Api\\Controllers\\PermissionsController.cs",
+              "RelativeDocumentMoniker": "CompanyAuth.Api\\Controllers\\PermissionsController.cs",
+              "ToolTip": "D:\\Arquitectura de software\\TEMAS AVANZADOS DE DISE\u00D1O DE SOFTWARE\\proyecto numero 1\\HRR\\CompanyAuth.Api\\Controllers\\PermissionsController.cs",
+              "RelativeToolTip": "CompanyAuth.Api\\Controllers\\PermissionsController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T20:45:04.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "D:\\Arquitectura de software\\TEMAS AVANZADOS DE DISE\u00D1O DE SOFTWARE\\proyecto numero 1\\HRR\\CompanyAuth.Api\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "CompanyAuth.Api\\Controllers\\RolesController.cs",
+              "ToolTip": "D:\\Arquitectura de software\\TEMAS AVANZADOS DE DISE\u00D1O DE SOFTWARE\\proyecto numero 1\\HRR\\CompanyAuth.Api\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "CompanyAuth.Api\\Controllers\\RolesController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T20:35:29.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\Arquitectura de software\\TEMAS AVANZADOS DE DISE\u00D1O DE SOFTWARE\\proyecto numero 1\\HRR\\CompanyAuth.Domain\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "CompanyAuth.Domain\\Entities\\Role.cs",
+              "ToolTip": "D:\\Arquitectura de software\\TEMAS AVANZADOS DE DISE\u00D1O DE SOFTWARE\\proyecto numero 1\\HRR\\CompanyAuth.Domain\\Entities\\Role.cs",
+              "RelativeToolTip": "CompanyAuth.Domain\\Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T20:40:36.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRoleRepository.cs",
+              "DocumentMoniker": "D:\\Arquitectura de software\\TEMAS AVANZADOS DE DISE\u00D1O DE SOFTWARE\\proyecto numero 1\\HRR\\CompanyAuth.Application\\Interfaces\\Repositories\\IRoleRepository.cs",
+              "RelativeDocumentMoniker": "CompanyAuth.Application\\Interfaces\\Repositories\\IRoleRepository.cs",
+              "ToolTip": "D:\\Arquitectura de software\\TEMAS AVANZADOS DE DISE\u00D1O DE SOFTWARE\\proyecto numero 1\\HRR\\CompanyAuth.Application\\Interfaces\\Repositories\\IRoleRepository.cs",
+              "RelativeToolTip": "CompanyAuth.Application\\Interfaces\\Repositories\\IRoleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T20:38:05.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoleDto.cs",
+              "DocumentMoniker": "D:\\Arquitectura de software\\TEMAS AVANZADOS DE DISE\u00D1O DE SOFTWARE\\proyecto numero 1\\HRR\\CompanyAuth.Application\\DTOs\\Roles\\RoleDto.cs",
+              "RelativeDocumentMoniker": "CompanyAuth.Application\\DTOs\\Roles\\RoleDto.cs",
+              "ToolTip": "D:\\Arquitectura de software\\TEMAS AVANZADOS DE DISE\u00D1O DE SOFTWARE\\proyecto numero 1\\HRR\\CompanyAuth.Application\\DTOs\\Roles\\RoleDto.cs",
+              "RelativeToolTip": "CompanyAuth.Application\\DTOs\\Roles\\RoleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T20:37:30.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
