@@ -39,7 +39,7 @@ builder.Services.AddScoped<IPermissionRepository, PermissionRepository>();
 builder.Services.AddScoped<IAuthorizationRepository, AuthorizationRepository>();
 
 // ===========================
-// Servicios de aplicación
+// Servicios de aplicaciï¿½n
 // ===========================
 builder.Services.AddScoped<IAuthService, AuthService>();
 builder.Services.AddScoped<IJwtGenerator, JwtGenerator>();
@@ -51,15 +51,15 @@ builder.Services.AddEndpointsApiExplorer();
 
 builder.Services.AddSwaggerGen(options =>
 {
-    // Info básica
+    // Info bï¿½sica
     options.SwaggerDoc("v1", new OpenApiInfo
     {
         Title = "CompanyAuth API",
         Version = "v1",
-        Description = "API para autenticación, roles, permisos y autorización"
+        Description = "API para autenticaciï¿½n, roles, permisos y autorizaciï¿½n"
     });
 
-    // XML comments (opcional, pero útil)
+    // XML comments (opcional, pero ï¿½til)
     var xmlFilename = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
     var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFilename);
     if (File.Exists(xmlPath))
@@ -100,7 +100,7 @@ builder.Services.AddSwaggerGen(options =>
 // JWT Authentication
 // ===========================
 var jwtSettings = builder.Configuration.GetSection("Jwt").Get<JwtSettings>()
-    ?? throw new InvalidOperationException("La sección 'Jwt' no está configurada en appsettings.json");
+    ?? throw new InvalidOperationException("La secciï¿½n 'Jwt' no estï¿½ configurada en appsettings.json");
 
 builder.Services.AddAuthentication(options =>
 {
@@ -145,14 +145,14 @@ var app = builder.Build();
 // ===========================
 // Middleware pipeline
 // ===========================
-if (app.Environment.IsDevelopment())
-{
+// if (app.Environment.IsDevelopment())
+// {
     app.UseSwagger();
     app.UseSwaggerUI(c =>
     {
         c.SwaggerEndpoint("/swagger/v1/swagger.json", "CompanyAuth API v1");
     });
-}
+// }
 
 app.UseHttpsRedirection();
 
